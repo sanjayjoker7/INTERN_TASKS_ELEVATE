@@ -16,9 +16,7 @@ I worked with the **Ecommerce Sales Dataset** to perform queries that provide bu
 - **PostgreSQL 17**
 - **pgAdmin 4**
 - SQL scripting (`.sql` file)
-
-## 📂 Dataset
-**Source:** [Kaggle - Online Retail Dataset](https://www.kaggle.com/datasets)  
+ 
 **Table:** `ecommerce_data`  
 **Columns:**
 - `InvoiceNo` – Unique invoice number
